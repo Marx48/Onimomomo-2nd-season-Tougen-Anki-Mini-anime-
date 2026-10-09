@@ -14,7 +14,7 @@ English subtitles (.ass) for the mini-anime Onimomomomo 2nd Season (Tougen Anki)
 
 | Episode | Title / Description | Subtitle File |
 | :---: | :---: | :---: |
-| Episode 1 | Training Preparation / Student Introductions | `[Onimomomomo_01_EN.ass]` |
+| Episode 1 | Training Preparation / Student Introductions | `[Onimomomomo 2nd season_01_EN.ass]` |
 
 ---
 
