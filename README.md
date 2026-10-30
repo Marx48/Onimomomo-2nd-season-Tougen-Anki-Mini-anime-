@@ -7,13 +7,11 @@ English subtitles (.ass) for the mini-anime Onimomomomo 2nd Season (Tougen Anki)
 - **Anime Title:** Onimomomomo 2nd Season (Tougen Anki Mini Anime)
 - **Original Source:** [YouTube Playlist / Official Channel](https://www.youtube.com/watch?v=QnS7xzQ6YBs)
 - **Language:** Japanese Audio → English Subtitles
-- **Formats Available:** `.ass` 
-
-
-## 📁 Episodes
-
-| Episode |            |Title / Description |                       |Subtitle File |
-| Episode 1 | Training Preparation / Student Introductions | `[Onimomomomo 2nd season_01_EN.ass]` |
+- **Formats Available:** `.ass`
+- 
+  ## 🔗 Where to Find Releases
+You can download the full batches and video releases on:
+* **[Google Drive](https://drive.google.com/drive/folders/1TmeP2pGG6JuofRA-t_fP-hQ4HP1edRq_?usp=drive_link)**
 
 ---
 
